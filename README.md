@@ -14,12 +14,16 @@ A simple shell script to search YouTube, select results using `fzf`, and play au
 You can quickly install all required dependencies with the provided script.
 
 1. Clone the repo:
-   '''bash
-  git clone https://github.com/Sagarkadyan/Spottube_cli
-  cd Spottube_cli
-2.Make it executable:
-  '''bash
-  chmod +x song.sh
+   ```bash
+    git clone https://github.com/Sagarkadyan/Spottube_cli
+    cd Spottube_cli
+2. Run the installer:
+   ```bash
+   chmod +x install.sh
+   ./install.sh
+4. Make it executable
+   ```bash
+   chmod +x song.sh  
 
 🚀 How to Use
 ▶️ Run the script
