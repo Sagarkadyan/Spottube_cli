@@ -29,12 +29,13 @@ You can quickly install all required dependencies with the provided script.
 ▶️ Run the script
 
 If you installed it globally:
-ms
-
+   ```
+  msplay
+```
 Or run it locally:
-
-./song.sh
-
+   ```
+   ./song.sh
+```
 🎵 What Happens Next
 
     You'll see a prompt like this:
