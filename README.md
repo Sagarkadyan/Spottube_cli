@@ -54,6 +54,7 @@ chmod +x yt-audio-queue-advanced.sh
 ## 🖥️ Demo
 
 ![CLI Demo](https://user-images.githubusercontent.com/your-demo-gif.gif)
+    ![alt text](path/to/your/gif.gif)
 
 ---
 
