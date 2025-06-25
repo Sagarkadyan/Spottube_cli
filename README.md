@@ -46,7 +46,7 @@ chmod +x yt-audio-queue-advanced.sh
 ### **Usage**
 
 ```bash
-./yt-audio-queue-advanced.sh
+./song.sh
 ```
 
 ---
@@ -60,13 +60,7 @@ chmod +x yt-audio-queue-advanced.sh
 ## 🛠️ Example Menu
 
 ```
-=== 🎶 YT Audio Queue Menu ===
-1) Add song to queue
-2) Show queue
-3) Remove song from queue
-4) Play queue
-5) Exit
-Choose an option [1-5]:
+🎵 Enter song or genre (or type 'playlist' to play all saved songs): 
 ```
 
 ---
@@ -75,8 +69,9 @@ Choose an option [1-5]:
 
 ```
 Spottube_cli/
-├── yt-audio-queue-advanced.sh    # Main script (queue system)
-├── yt-autoplay-loop.sh           # Simple autoplay version
+├── install.sh    # Main script (queue system)
+├── song.sh           # Simple autoplay version
+├── yt-playlist.txt   #your playlist
 └── README.md                     # This file
 ```
 
