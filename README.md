@@ -1,5 +1,10 @@
 # 🎵 Spottube_cli
 
+![Bash](https://img.shields.io/badge/language-Python-blue.svg)
+![Repo Size](https://img.shields.io/github/repo-size/Sagarkadyan/Insta-automater)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
+[![Bash Version](https://img.shields.io/badge/python-3.7%2B-green.svg)](https://www.python.org/)  
+
 A sleek, interactive command-line tool for searching, queuing, and playing music from YouTube right from your terminal.  
 **Spottube_cli** is designed for music enthusiasts who love the power and aesthetics of the command line.
 
